@@ -1,11 +1,10 @@
 # Exercise Tracker
 
-## Monday - [Date]
+## Tuesday - 30-12-2025
 
 ### Cardio
 - [ ] Running - 5km
 - [ ] Cycling - 30 min
-- [ ] Swimming - 20 laps
 
 ### Strength
 - [ ] Push-ups - 3x20
@@ -30,12 +29,11 @@
 
 ---
 
-## Tuesday - [Date]
+## Wednesday - 31-12-2025
 
 ### Cardio
 - [ ] Running - 5km
 - [ ] Cycling - 30 min
-- [ ] Swimming - 20 laps
 
 ### Strength
 - [ ] Push-ups - 3x20
@@ -60,12 +58,11 @@
 
 ---
 
-## Wednesday - [Date]
+## Thursday - 01-01-2026
 
 ### Cardio
 - [ ] Running - 5km
 - [ ] Cycling - 30 min
-- [ ] Swimming - 20 laps
 
 ### Strength
 - [ ] Push-ups - 3x20
@@ -90,12 +87,11 @@
 
 ---
 
-## Thursday - [Date]
+## Friday - 02-01-2026
 
 ### Cardio
 - [ ] Running - 5km
 - [ ] Cycling - 30 min
-- [ ] Swimming - 20 laps
 
 ### Strength
 - [ ] Push-ups - 3x20
@@ -120,12 +116,11 @@
 
 ---
 
-## Friday - [Date]
+## Saturday - 03-01-2026
 
 ### Cardio
 - [ ] Running - 5km
 - [ ] Cycling - 30 min
-- [ ] Swimming - 20 laps
 
 ### Strength
 - [ ] Push-ups - 3x20
@@ -150,12 +145,11 @@
 
 ---
 
-## Saturday - [Date]
+## Sunday - 04-01-2026
 
 ### Cardio
 - [ ] Running - 5km
 - [ ] Cycling - 30 min
-- [ ] Swimming - 20 laps
 
 ### Strength
 - [ ] Push-ups - 3x20
@@ -185,7 +179,6 @@
 ### Cardio
 - [ ] Running - 5km
 - [ ] Cycling - 30 min
-- [ ] Swimming - 20 laps
 
 ### Strength
 - [ ] Push-ups - 3x20
