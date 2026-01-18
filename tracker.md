@@ -30,8 +30,13 @@
 - [ ] Russian Twists - 3x20
 - [ ] Planks - 3x60 sec
 
-### Cool-down
-- [ ] Stretching - 5 min
+### Cool-down (5 min)
+- [ ] Quad stretch - 30 sec each leg
+- [ ] Hamstring stretch - 30 sec
+- [ ] Hip flexor stretch - 30 sec each side
+- [ ] Chest stretch - 30 sec each side
+- [ ] Child's pose - 30 sec
+- [ ] Seated spinal twist - 30 sec each side
 
 ### Hydration
 - [ ] Water - 1L
