@@ -11,12 +11,12 @@
 
 ### Cardio (pick one)
 - [ ] Running - 5km
-- [ ] Cycling - 30 min
+- [x] Cycling - 30 min
 
 ### Strength - Day A (Push)
-- [ ] Push-ups - 3x20
-- [ ] Bench Press - 3x10
-- [ ] Shoulder Press - 3x12
+- [x] Push-ups - 3x10
+- [x] Bench Press - 3x10
+- [x] Shoulder Press - 3x12
 
 ### Strength - Day B (Pull)
 - [ ] Back exercises - 3x12
@@ -31,15 +31,15 @@
 - [ ] Planks - 3x60 sec
 
 ### Cool-down (5 min)
-- [ ] Quad stretch - 30 sec each leg
-- [ ] Hamstring stretch - 30 sec
-- [ ] Hip flexor stretch - 30 sec each side
-- [ ] Chest stretch - 30 sec each side
-- [ ] Child's pose - 30 sec
-- [ ] Seated spinal twist - 30 sec each side
+- [x] Quad stretch - 30 sec each leg
+- [x] Hamstring stretch - 30 sec
+- [c] Hip flexor stretch - 30 sec each side
+- [x] Chest stretch - 30 sec each side
+- [x] Child's pose - 30 sec
+- [x] Seated spinal twist - 30 sec each side
 
 ### Hydration
-- [ ] Water - 1L
+- [x] Water - 1L
 
 **Notes:**
 
