@@ -1,7 +1,13 @@
 # Exercise Tracker
 
-### Warm-up
-- [ ] Dynamic stretching - 5 min
+### Warm-up (5 min)
+- [ ] Jumping jacks - 30 sec
+- [ ] Arm circles - 30 sec
+- [ ] Leg swings - 1 min
+- [ ] High knees - 30 sec
+- [ ] Walking lunges - 1 min
+- [ ] Hip circles - 30 sec
+- [ ] Torso twists - 30 sec
 
 ### Cardio (pick one)
 - [ ] Running - 5km
